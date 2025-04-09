@@ -1,0 +1,21 @@
+{
+  "name": "Meta Universe Token List",
+  "logoURI": "https://github.com/AlfredoEscalona/metaUniverse/blob/develop/logo.png",
+  "keywords": ["metauniverse", "meta universe", "meu token", "meta universe token", "meu"],
+  "timestamp": "2025-04-09T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x99cd95A2CF23189404099657a76d9b911817a3E9",
+      "symbol": "MEU",
+      "name": "Meta Universe",
+      "decimals": 18,
+      "logoURI": "https://github.com/AlfredoEscalona/metaUniverse/blob/develop/logo.png"
+    }
+  ]
+}
