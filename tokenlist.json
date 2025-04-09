@@ -10,7 +10,7 @@
   },
   "tokens": [
     {
-      "chainId": 56,
+      "chainId": 1,
       "address": "0x99cd95A2CF23189404099657a76d9b911817a3E9",
       "symbol": "MEU",
       "name": "Meta Universe",
