@@ -1,0 +1,8 @@
+{
+  "name": "Meta Universe",
+  "symbol": "MEU",
+  "address": "0x99cd95A2CF23189404099657a76d9b911817a3E9",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://github.com/AlfredoEscalona/metaUniverse/blob/develop/logo.png"
+}
